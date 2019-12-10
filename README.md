@@ -1,2 +1,4 @@
 # strapi-gatsby-postgre-demo
-My first demo for Gatsby &amp; Strapi using PostgreSQL as database
+My first project for Gatsby &amp; Strapi using PostgreSQL as database
+
+[Demo](https://fridho-strapi-gatsby-postgre-demo.netlify.com/)
